@@ -1,7 +1,9 @@
 #include "ofApp.h"
-
+#include <iostream>
+using namespace std;
 //--------------------------------------------------------------
 void ofApp::setup(){
+	cout << "Hello from setup";
 
 }
 
